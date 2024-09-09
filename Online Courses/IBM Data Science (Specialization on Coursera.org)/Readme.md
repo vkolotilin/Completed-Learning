@@ -1,5 +1,7 @@
 ## IBM Data Science Sertificates URLs
 
+![alt text](https://www.coursera.org/account/accomplishments/specialization/certificate/LL5JLGZA8FWB)
+
 0*. Specialization Sertificate  https://www.coursera.org/account/accomplishments/professional-cert/LL5JLGZA8FWB
 
 1. "What is Data Science?"  https://www.coursera.org/account/accomplishments/verify/US7FXXDLU7Y9
