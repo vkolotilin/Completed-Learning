@@ -1,2 +1,5 @@
 # Completed-Learning
-About here you can find information about my completed learning
+Here you can find information about my completed learning, that includes:
+- online courses
+- books
+- articles and other
