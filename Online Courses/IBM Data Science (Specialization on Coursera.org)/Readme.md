@@ -1,5 +1,5 @@
 ## IBM Data Science Sertificates URLs
-
+https://github.com/vkolotilin/Completed-Learning/Online Courses/IBM Data Science (Specialization on Coursera.org)/image.jpg?raw=true
 ![Course Certificate](Online Courses/IBM Data Science (Specialization on Coursera.org)/IBM Data Science specialization Sertificate.png)
 
 0*. Specialization Sertificate  https://www.coursera.org/account/accomplishments/professional-cert/LL5JLGZA8FWB
